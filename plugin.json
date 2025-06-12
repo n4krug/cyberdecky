@@ -6,6 +6,6 @@
   "publish": {
     "tags": ["modding", "games"],
     "description": "Mod Manager for Cyberpunk 2077 on the SteamDeck",
-    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+    "image": "https://opengraph.githubassets.com/1/n4krug/cyberdecky"
   }
 }
